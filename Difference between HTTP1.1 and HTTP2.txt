@@ -1,0 +1,9 @@
+Difference between HTTP1.1 and HTTP2 :
+
+           Hypertext Transfer Protocol is the set of rules for transferring files such as text, images, sound, video files over the web. It has various type of versions. Lets see the difference between HTTP1.1 and HTTP2.
+
+           1. HTTP1.1 loads like one after other, so if one cannot be loaded means it will block others behind it. Incase of HTTP2 uses a single TCP connection in which one cannot block any other behind it.
+     
+           2. Small files load more quickly than large ones. To speed up web performance, both HTTP1.1 and HTTP2 compress HTTP messages to make them smaller. However, HTTP2 uses a more advanced compression method.
+        
+           3. HTTP2 is much faster than and more efficient than HTTP1.1. One of the ways in which HTTP2 is faster is in how it prioritizes content during the loading process.
